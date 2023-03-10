@@ -1,2 +1,2 @@
 #!/bin/bash
-ls amv --file-type
+ls amvp
